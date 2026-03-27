@@ -71,6 +71,7 @@ Hazard_Detection_CLIP_Zero-Shot/
 ## Publication
 
 Samsami, Reihaneh, and Sharmin Badhan. "Automated Hazard Detection on Construction Sites Using Contrastive Language–Image Pre-Training (CLIP): A Zero-Shot Learning Approach with Human-Centric Evaluation." Computing in Civil Engineering 2025: Computational and Intelligent Technologies. 2025. 538-542.
+This work presents a zero-shot learning framework using CLIP for hazard detection on construction sites. The study incorporates human-centric evaluation to assess the reliability and practical applicability of AI-assisted safety monitoring systems.
 - [Read the full paper](https://ascelibrary.org/doi/abs/10.1061/9780784486436.057)
 
 ## Authors
