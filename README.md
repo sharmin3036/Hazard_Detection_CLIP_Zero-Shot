@@ -44,17 +44,6 @@ This repository contains the code for our study on automated hazard detection in
 
 ---
 
-## Repository Structure  
-```
-Hazard_Detection_CLIP_Zero-Shot/
-├── data/
-├── scripts/
-├── utils/
-├── results/
-├── requirements.txt
-└── README.md
-```
-
 ## Key Results
 - 70% accuracy on preliminary dataset
 - Correct hazard identified in most images
